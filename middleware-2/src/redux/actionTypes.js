@@ -1,0 +1,15 @@
+export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+export const LOGIN_FAILURE='LOGIN_FAILURE';
+export const LOGOUT='LOGOUT';
+
+export const FETCHQUIZ_SUCCESS='FETCHQUIZ_SUCCESS';
+export const FETCHQUIZ_FAILURE='FETCHQUIZ_SUCCESS';
+
+export const ISLOADING='ISLOADIING'
+export const ISERROR='ISERROR'
+export const QUESTION='QUESTION'
+export const NEXT_QUESTION='NEXT_QUESTION'
+export const INCREMENT='INCREMENT'
+
+export const SKIP='SKIP';
+
